@@ -12,6 +12,7 @@ My week8 quiz
 ## Part 2: Coding Technique Exploration
 *Image/screenshot showcasing*
 ![E Img3](readmeImages/E%20Img3.png)
+[Code Link](https://codepen.io/ljnest/pen/gOPyGqd)
 
 **To achieve vivid color and texture effects directly with p5.js, which involves image processing and dynamic color manipulation, it can be used to create works of art like TENDER and Abstractment styles.**
 
@@ -19,4 +20,4 @@ My week8 quiz
 
 **This example demonstrates dynamic effects, but the same principles can be applied to still images or textures to create dynamic, interactive works of art. By tweaking the code to use still images and applying color transitions, you can achieve effects like those seen in abstract digital art.**
 
-[Link Text](https://codepen.io/ljnest/pen/gOPyGqd)
+
