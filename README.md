@@ -11,3 +11,4 @@ My week8 quiz
 
 ## Part 2: Coding Technique Exploration
 *Image/screenshot showcasing*
+![E Img3](readmeImages/E%20Img3.png)
