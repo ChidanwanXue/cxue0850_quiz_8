@@ -21,3 +21,5 @@ My week8 quiz
 **This example demonstrates dynamic effects, but the same principles can be applied to still images or textures to create dynamic, interactive works of art. By tweaking the code to use still images and applying color transitions, you can achieve effects like those seen in abstract digital art.**
 
 *Dynamic*
+![E Img4](readmeImages/E%20Img4.png)
+
