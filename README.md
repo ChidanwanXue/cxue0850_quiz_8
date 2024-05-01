@@ -4,7 +4,6 @@ My week8 quiz
 ## Part 1: Imaging Technique Inspiration
 
 *Images*
-**Images**
 ![Image 1](readmeImages/Img%201.jpg)
 ![Image 2](readmeImages/Img%202.jpg)
 
