@@ -14,6 +14,8 @@ My week8 quiz
 ![E Img3](readmeImages/E%20Img3.png)
 
 **To achieve vivid color and texture effects directly with p5.js, which involves image processing and dynamic color manipulation, it can be used to create works of art like TENDER and Abstractment styles.**
+
 **By leveraging these capabilities, it is possible to create complex, layered visual effects that can change in real time, enhancing the immersion of the artwork.**
+
 **This example demonstrates dynamic effects, but the same principles can be applied to still images or textures to create dynamic, interactive works of art. By tweaking the code to use still images and applying color transitions, you can achieve effects like those seen in abstract digital art.**
 
